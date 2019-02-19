@@ -1,6 +1,6 @@
 
 # Untersuchen von Spenden von Politiker*innen an die eigene Partei 
-# liefert Liste (selfDonateList) mit allen Politiker*innen welche an ihre eigene Partei gespendet haben
+# liefert Liste (sumOfSelfDonations) mit allen Politiker*innen welche an ihre eigene Partei gespendet haben der größe nach sortiert
 # Bisheriger Stand der Daten:
 #   Spenden natürlicher Personen von 2000 bis 2019 -> 8864 Spenden
 #   aber nur aktuell in Land- oder Bundestag sitzende Politiker*innen (abgeordnetenwatch API nicht ganz durschaut) -> 2698 (doppelte Personen in Liste aus xml)
@@ -11,7 +11,7 @@
 
 library(rjson)
 library(stringr)
-setwd("C:\\Users\\tim\\Documents\\Computer\\Python\\wikimedia\\")
+setwd("C:\\Users\\tim\\Documents\\Computer\\Python\\wikimedia\\intra-party-donations")
 
 require(XML)
 
@@ -59,49 +59,12 @@ read.Lobbypedia <- function(lobbyCSV = "parteispenden.csv"){
 read.abgeordnetenwatch <- function(XML){
   
   # TODO: auch hier xml automatisch herunterladen und speichern
-  xml_list <- c("bundestag.xml", "berlin.xml","BW.xml","bayern.xml","thueringen.xml","brandenburg.xml","bremen.xml","hamburg.xml","hessen.xml", "meckpom.xml","niedersachsen.xml","nrw.xml","saarland.xml","sachsen.xml","anhalt.xml","holstein.xml","pfalz.xml")
-  namelist <- matrix(nrow = 5430, ncol = 2)
-  
   # Erstellen einer Matrix mit allen Mitarbeiter*innen + jeweilige Partei
   # Alle Landtage (+ Bundestag) xmls durchlaufen
   # und benoetigte Informationen extrahieren
-  
-  # parliament enthält infos aus xml für alle personen eines parlamentes
-  # parliament in Liste umwandeln 
-  # benoetigte informationen in parliament[i]$profile$personal$first_name/last_name/degree
-  counter <- 1
-  for (xml in xml_list){
-    temp <- xmlParse(xml)
-    parliament <- xmlToList(temp)
-    for (i in 2:length(parliament)){
-      #  singlenamelist mit Namensstring "last_name,[degree] first_name" und 
-      #  Partei party erstellen
-      #  unterscheide ob Dr./Prof. oder nicht ( falls ja zusaetzliches Leerzeichen)
-      if (is.null(parliament[i]$profile$personal$degree)){
-        singlenamelist <-list(paste0(parliament[i]$profile$personal$last_name,", ", 
-                                     parliament[i]$profile$personal$first_name),
-                              parliament[i]$profile$party) 
-      } else {
-        singlenamelist <- list(paste0(parliament[i]$profile$personal$last_name,", ",
-                                      parliament[i]$profile$personal$degree, " ",
-                                      parliament[i]$profile$personal$first_name), 
-                               parliament[i]$profile$party) 
-      }
-      # erstellte Liste singlenamelist in gesamte Matrix einfuegen
-      namelist[counter,1] <- singlenamelist[[1]]
-      namelist[counter,2] <- singlenamelist[[2]]
-      counter <- counter + 1
-    }
-  }
-} 
-
-read.abgeordnetenwatch <- function(XML){
-  
-  # TODO: auch hier xml automatisch herunterladen und speichern
-  # Erstellen einer Matrix mit allen Mitarbeiter*innen + jeweilige Partei
-  # Alle Landtage (+ Bundestag) xmls durchlaufen
-  # und benoetigte Informationen extrahieren
-  # return Zweispalten matrix mit Name + Partei 
+  # 
+  # input: XML Datei
+  # return: Zweispalten matrix mit Name + Partei 
   
   # parliament enthält infos aus xml für alle personen eines parlamentes
   # parliament in Liste umwandeln 
@@ -113,7 +76,7 @@ read.abgeordnetenwatch <- function(XML){
   for (i in 2:length(parliament)){
     #  singlenamelist mit Namensstring "last_name,[degree] first_name" und 
     #  Partei party erstellen
-    singlenamelist <- conver.xmlEntry(i)
+    singlenamelist <- convert.xmlEntry(parliament[i]$profile$personal$first_name, parliament[i]$profile$personal$last_name, parliament[i]$profile$party, parliament[i]$profile$personal$degree)
     # erstellte Liste singlenamelist in gesamte Matrix einfuegen
     namelist[counter,1] <- singlenamelist[[1]]
     namelist[counter,2] <- singlenamelist[[2]]
@@ -123,24 +86,33 @@ read.abgeordnetenwatch <- function(XML){
   return(namelist) 
 }
 
-convert.xmlEntry <- function(index){
+convert.xmlEntry <- function(first_name, last_name, party, degree){
+  #  Name der Person aus xml-Liste extrahieren
+  #
+  #  input: Vor-, Nachname, Partei, Grad. Als XML-Listeneintrag 
+  #  return: singlenamelist 2 Elemente 
+  #          String(Nachname, Grad Vorname),
+  #          String Partei
+  #
   #  unterscheide ob Dr./Prof. oder nicht ( falls ja zusaetzliches Leerzeichen)
-  if (is.null(parliament[index]$profile$personal$degree)){
-    singlenamelist <- list(paste0(parliament[index]$profile$personal$last_name,", ", 
-                                  parliament[index]$profile$personal$first_name),
-                                  parliament[index]$profile$party) 
+  if (is.null(degree)){
+    singlenamelist <- list(paste0(last_name,", ", first_name), party) 
   } else {
-    singlenamelist <- list(paste0(parliament[index]$profile$personal$last_name,", ",
-                                  parliament[index]$profile$personal$degree, " ",
-                                  parliament[index]$profile$personal$first_name), 
-                                  parliament[index]$profile$party) 
+    singlenamelist <- list(paste0(last_name,", ", degree, " ", first_name), party) 
   }
   return(singlenamelist)
 }
 
 read.multipleXML <- function(xml_list){
+  # Auslesen von Dateiname von XML Datei aus liste und weitergabe an read.abgeordnetenwatch
+  #
+  # input: Liste von XML Dateinamen
+  # return: Liste mit Namen aus Abgeordnetenwach von Bundestag und allen Landtagen
+  names <- matrix(ncol = 2)
   for (i in 1:length(xml_list)){
     print(paste0("Read in: ",xml_list[i], "..."))
+    print(xml_list[i])
+    print(names)
     names <- rbind(names,read.abgeordnetenwatch(xml_list[i])) 
     print("Done!")
   }
@@ -150,11 +122,11 @@ read.multipleXML <- function(xml_list){
 
 extract.Integer <- function(value){
   # extract number out of data.frame format ??? bessere LÃ¶sung suchen
-  # String aus donationList$Betrag ziehen, Format "$ 11..11,11" 
+  # String aus donationList$Betrag ziehen, Format "$ 11[..]11,11" 
   # -> ersten zwei Zeichen ignorieren und dann Zeichen 3 - (n-3) bis komma + Stellen nach dem Komma*0,01 
   value <- substr(as.character(value),3,str_length(value))
   value <- strtoi(substr(value,1,str_length(value)-3)) +
-    strtoi(substr(value,str_length(value)-1,str_length(value)))*0.01
+           strtoi(substr(value,str_length(value)-1,str_length(value)))*0.01
   return(value)
 }
 
@@ -232,4 +204,4 @@ donations <- read.Lobbypedia("parteispenden.csv")
 xml_list <- c("bundestag.xml", "berlin.xml","BW.xml","bayern.xml","thueringen.xml","brandenburg.xml","bremen.xml","hamburg.xml","hessen.xml", "meckpom.xml","niedersachsen.xml","nrw.xml","saarland.xml","sachsen.xml","anhalt.xml","holstein.xml","pfalz.xml")
 namelist_abgeordnetenwatch <- read.multipleXML(xml_list)
 
-sumOfSelfDonations <- search.selfDonations(donations[1:100,], namelist_abgeordnetenwatch)
+sumOfSelfDonations <- search.selfDonations(donations, namelist_abgeordnetenwatch)
