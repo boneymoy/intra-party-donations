@@ -1,0 +1,3759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+  <meta>
+    <license>
+      <name>Open Database License (ODbL) v1.0</name>
+      <url>https://opendatacommons.org/licenses/odbl/1.0/</url>
+    </license>
+    <contributer/>
+    <subsets>
+      <value>https://www.abgeordnetenwatch.de/api/parliament/saarland/deputies.xml?subsets=votes</value>
+      <value>https://www.abgeordnetenwatch.de/api/parliament/saarland/deputies.xml?subsets=dialogues</value>
+      <value>https://www.abgeordnetenwatch.de/api/parliament/saarland/deputies.xml?subsets=sidejobs</value>
+    </subsets>
+  </meta>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 16:35</edited>
+      <uuid>d41d7252-fe5c-48d9-9c93-b7d3926316a8</uuid>
+      <username>helma-kuhn-theis</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/helma-kuhn-theis</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Helma</first_name>
+      <last_name>Kuhn-Theis</last_name>
+      <gender>female</gender>
+      <birthyear>1953</birthyear>
+      <education>Studium für Lehramt an Realschulen (Germanistik/Sport)</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Weiskirchen-Thailen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/kuhn-theis-f-01.jpg</url>
+        <copyright>h.kuhn-theis@cdu-fraktion-saar.de</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 10:54</edited>
+      <uuid>07e1a287-8581-49b4-91fb-f12ff05772b0</uuid>
+      <username>alexander-funk</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/alexander-funk</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Alexander</first_name>
+      <last_name>Funk</last_name>
+      <gender>male</gender>
+      <birthyear>1974</birthyear>
+      <education>Diplom-Kaufmann</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Homburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/funk-s-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>5</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>afa37beb-3f75-45e8-98a8-e0cea834d92f</uuid>
+        <name>Ausschuss für Fragen des Verfassungsschutzes (VS)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:10</edited>
+      <uuid>4f6ed355-bc67-46af-8b49-1527b2b97967</uuid>
+      <username>reinhold-jost</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/reinhold-jost</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Reinhold</first_name>
+      <last_name>Jost</last_name>
+      <gender>male</gender>
+      <birthyear>1966</birthyear>
+      <education>Finanzfachwirt</education>
+      <profession>MdL, Minister für Umwelt und Verbraucherschutz</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Rehlingen-Siersburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/reinhold-jost.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:45</edited>
+      <uuid>cccc7932-3007-4132-8442-5c556b3e9b55</uuid>
+      <username>hermann-josef-scharf</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/hermann-josef-scharf</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Hermann-Josef</first_name>
+      <last_name>Scharf</last_name>
+      <gender>male</gender>
+      <birthyear>1961</birthyear>
+      <education>Kaufmann im Groß- und Außenhandel</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Oberthal</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/hscharf.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:53</edited>
+      <uuid>57b795d2-e93c-4abd-8159-956a28bfce68</uuid>
+      <username>oskar-lafontaine</username>
+      <questions>1</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/oskar-lafontaine</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Oskar</first_name>
+      <last_name>Lafontaine</last_name>
+      <gender>male</gender>
+      <birthyear>1943</birthyear>
+      <education>Dipl. Physiker</education>
+      <profession>MdL, Fraktionsvorsitzender</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Merzig</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/oskar-lafontaine.png</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:58</edited>
+      <uuid>1ce968fa-9108-4b14-a2eb-fbf0362f5fdd</uuid>
+      <username>rudolf-muller</username>
+      <questions>1</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/rudolf-muller</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Rudolf</first_name>
+      <last_name>Müller</last_name>
+      <gender>male</gender>
+      <birthyear>1951</birthyear>
+      <education>Lehrer</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city></city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/rudolf_mueller_pressefoto.jpg</url>
+        <copyright>Rudolf Müller</copyright>
+      </picture>
+    </personal>
+    <party>AfD</party>
+    <fraction>AfD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:40</edited>
+      <uuid>f70c17f5-57c1-4d30-bf0d-f6afe801caa2</uuid>
+      <username>dagmar-heib</username>
+      <questions>1</questions>
+      <answers>1</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/dagmar-heib</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Dagmar</first_name>
+      <last_name>Heib</last_name>
+      <gender>female</gender>
+      <birthyear>1963</birthyear>
+      <education>Juristin</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Dillingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/dheib.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>5</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 15:20</edited>
+      <uuid>94f77888-e83c-4c06-aaf3-606d8ff02447</uuid>
+      <username>anja-wagner-scheid</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/anja-wagner-scheid</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Anja</first_name>
+      <last_name>Wagner-Scheid</last_name>
+      <gender>female</gender>
+      <birthyear>1074</birthyear>
+      <education>Magister in Literatur- und Sprachwissenschaften sowie Politikwissenschaften</education>
+      <profession>Direktorin des Landesamtes für Soziales</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/default_images/profil_dummy_0.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2017-04-25</retired>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>5</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-02-05 16:24</edited>
+      <uuid>87c9270e-7308-403c-9ce1-155e7ca38840</uuid>
+      <username>anke-rehlinger</username>
+      <questions>1</questions>
+      <answers>1</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/anke-rehlinger</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Anke</first_name>
+      <last_name>Rehlinger</last_name>
+      <gender>female</gender>
+      <birthyear>1976</birthyear>
+      <education>Rechtsanwältin</education>
+      <profession>MdL, stellvertretende Ministerpräsidentin und Ministerin für Wirtschaft, Arbeit, Energie und Verkehr</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/rehlinger-anke_0.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-03-06 09:14</edited>
+      <uuid>10149316-7137-4298-80a6-864327db9032</uuid>
+      <username>annegret-kramp-karrenbauer</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/annegret-kramp-karrenbauer</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Annegret</first_name>
+      <last_name>Kramp-Karrenbauer</last_name>
+      <gender>female</gender>
+      <birthyear>1962</birthyear>
+      <education>Studium der Rechts- und Politikwissenschaft</education>
+      <profession>Ministerpräsidentin des Saarlandes, MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Püttlingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/kramp-karrenbauer-f-03.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2018-02-28</retired>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:55</edited>
+      <uuid>14354082-1798-43dd-823f-1e7bcffb96c5</uuid>
+      <username>astrid-schramm</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/astrid-schramm</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Astrid</first_name>
+      <last_name>Schramm</last_name>
+      <gender>female</gender>
+      <birthyear>1956</birthyear>
+      <education>Industriekauffrau</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Püttlingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/schramm.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:55</edited>
+      <uuid>90579aae-e5e0-48f7-8ac7-305ea103a291</uuid>
+      <username>barbara-spaniol</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/barbara-spaniol</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Barbara</first_name>
+      <last_name>Spaniol</last_name>
+      <gender>female</gender>
+      <birthyear>1963</birthyear>
+      <education>Bibliotheksoberrätin a.D., Lehrerin</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Homburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/spaniol_0.jpg</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 10:58</edited>
+      <uuid>e57720f7-5598-4881-8b1f-6e915b227420</uuid>
+      <username>bernd-wegner</username>
+      <questions>1</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/bernd-wegner</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Bernd</first_name>
+      <last_name>Wegner</last_name>
+      <gender>male</gender>
+      <birthyear>1957</birthyear>
+      <education>Schuhmachermeister</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Riegelsberg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/profil_wegner.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-03-19 14:09</edited>
+      <uuid>896637c2-9d13-4f7d-b50f-fa2a59277522</uuid>
+      <username>christiane-blatt</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/christiane-blatt</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Christiane</first_name>
+      <last_name>Blatt</last_name>
+      <gender>female</gender>
+      <birthyear>1955</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Völklingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/christiane-blatt.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2018-02-28</retired>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2019-01-31 13:03</edited>
+      <uuid>ffbdd028-102b-4f40-b912-7b317d55d053</uuid>
+      <username>dagmar-ensch-engel</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/dagmar-ensch-engel</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Dagmar</first_name>
+      <last_name>Ensch-Engel</last_name>
+      <gender>female</gender>
+      <birthyear>1955</birthyear>
+      <education>Dipl. Ingenieurin Versorgungstechnik</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Beckingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/dagmar_ensch-engel.jpg</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>fraktionslos</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2018-08-02</joined>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:03</edited>
+      <uuid>0d7efd05-938b-497d-a7d8-2988b46a8f73</uuid>
+      <username>dr-magnus-jung</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/dr-magnus-jung</url>
+    </meta>
+    <personal>
+      <degree>Dr.</degree>
+      <first_name>Magnus</first_name>
+      <last_name>Jung</last_name>
+      <gender>male</gender>
+      <birthyear>1971</birthyear>
+      <education>Politikwissenschaftler</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Nonnweiler-Kastel</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/magnus-jung.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 14:10</edited>
+      <uuid>afe97b2e-a79c-405f-8934-227bba0f2edd</uuid>
+      <username>elke-eder-hippler</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/elke-eder-hippler</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Elke</first_name>
+      <last_name>Eder-Hippler</last_name>
+      <gender>female</gender>
+      <birthyear>1958</birthyear>
+      <education>Verwaltungsangestellte, Gewerkschaftssekretärin </education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Homburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/elke-eder-hippler.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:01</edited>
+      <uuid>2e087e51-4bce-4f43-9a90-3682583e197e</uuid>
+      <username>eugen-roth</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/eugen-roth</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Eugen</first_name>
+      <last_name>Roth</last_name>
+      <gender>male</gender>
+      <birthyear>1957</birthyear>
+      <education>Dipl. Verwaltungswirt</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Merchweiler</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/eugen-roth.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2019-01-14 15:52</edited>
+      <uuid>6c2aab8d-0e89-4f41-bbbb-f0cf63dcda81</uuid>
+      <username>gabriele-herrmann</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/gabriele-herrmann</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Gabriele</first_name>
+      <last_name>Herrmann</last_name>
+      <gender>female</gender>
+      <birthyear>1975</birthyear>
+      <education>Dipl. Kauffrau</education>
+      <profession/>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/gabriele_herrmann.jpg</url>
+        <copyright>CDU</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU/CSU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2018-12-04</joined>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list/>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:42</edited>
+      <uuid>ebb890ea-dbbf-4cbd-b5b4-2b36fa3b558d</uuid>
+      <username>gunter-heinrich</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/gunter-heinrich</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Günter</first_name>
+      <last_name>Heinrich</last_name>
+      <gender>male</gender>
+      <birthyear>1957</birthyear>
+      <education>Studium an der Verwaltungs- und Wirtschaftsakademie des Saarlandes</education>
+      <profession>MdL, Vizepräsident des  Landtags</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Rehlingen-Siersburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/gheinrich.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-27 23:32</edited>
+      <uuid>1b4b4163-ade4-4420-922c-301267525d59</uuid>
+      <username>hans-peter-kurtz</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/hans-peter-kurtz</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Hans-Peter</first_name>
+      <last_name>Kurtz</last_name>
+      <gender>male</gender>
+      <birthyear>1955</birthyear>
+      <education>Werkzeugmachermeister</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Wadgassen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/hans-peter_kurtz.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:11</edited>
+      <uuid>06057b9f-af6d-4470-a3ec-200d4563ebed</uuid>
+      <username>isolde-ries</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/isolde-ries</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Isolde</first_name>
+      <last_name>Ries</last_name>
+      <gender>female</gender>
+      <birthyear>1956</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/isolde-ries.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 16:58</edited>
+      <uuid>fed2f550-3770-4af9-9792-fce98c11f9f4</uuid>
+      <username>jurgen-renner</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/jurgen-renner</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Jürgen</first_name>
+      <last_name>Renner</last_name>
+      <gender>male</gender>
+      <birthyear>1966</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/juergen-renner.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Vice-Chairman</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 10:57</edited>
+      <uuid>7c62a5e4-4322-45a5-8271-b8f1702a8234</uuid>
+      <username>jutta-schmitt-lang</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/jutta-schmitt-lang</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Jutta</first_name>
+      <last_name>Schmitt-Lang</last_name>
+      <gender>female</gender>
+      <birthyear>1982</birthyear>
+      <education>Lehrerin</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Blieskastel</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/schmitt-lang.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>8</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-12-05 13:08</edited>
+      <uuid>8756c3c5-519e-4266-84ac-53c7635c8c9d</uuid>
+      <username>klaus-meiser</username>
+      <questions>1</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/klaus-meiser</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Klaus</first_name>
+      <last_name>Meiser</last_name>
+      <gender>male</gender>
+      <birthyear>1954</birthyear>
+      <education>Jurist</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Quierschied</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/profil_meiser.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2018-12-05</retired>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 16:54</edited>
+      <uuid>8e33b040-d77b-4ec0-9b11-e3c37fb3d122</uuid>
+      <username>martina-holzner</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/martina-holzner</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Martina</first_name>
+      <last_name>Holzner</last_name>
+      <gender>female</gender>
+      <birthyear>1967</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Brotdorf</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/martina-holzner.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 15:20</edited>
+      <uuid>f997997d-1a32-4621-9e3e-68130aa2a223</uuid>
+      <username>monika-bachmann</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/monika-bachmann</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Monika</first_name>
+      <last_name>Bachmann</last_name>
+      <gender>female</gender>
+      <birthyear>1950</birthyear>
+      <education>Bankkauffrau</education>
+      <profession>MdL, Ministerin für Soziales, Gesundheit, Frauen und Familie</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city></city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/default_images/profil_dummy_0.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2017-05-17</retired>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won/>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-04-18 12:34</edited>
+      <uuid>a28f5364-1014-4755-8aae-2c72cf8aaaa0</uuid>
+      <username>peter-strobel</username>
+      <questions>1</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/peter-strobel</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Peter</first_name>
+      <last_name>Strobel</last_name>
+      <gender>male</gender>
+      <birthyear>1970</birthyear>
+      <education>Kaufmann</education>
+      <profession>MdL, Minister für Finanzen und Europa, Minister der Justiz</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/strobel_150-1.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-20 11:55</edited>
+      <uuid>bbfa3480-31fa-43ce-bf92-6a6f57b74e89</uuid>
+      <username>petra-berg</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/petra-berg</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Petra</first_name>
+      <last_name>Berg</last_name>
+      <gender>female</gender>
+      <birthyear>1964</birthyear>
+      <education>Juristin</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Nalbach</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/petra-berg.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:09</edited>
+      <uuid>fdb87553-dc9f-4764-bd3f-1b7d657ff51c</uuid>
+      <username>pia-doring</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/pia-doring</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Pia</first_name>
+      <last_name>Döring</last_name>
+      <gender>female</gender>
+      <birthyear>1960</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Ottweiler</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/pia-doering.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:54</edited>
+      <uuid>1a37db19-e499-4d7e-8938-66cb95101fca</uuid>
+      <username>ralf-georgi</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/ralf-georgi</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Ralf</first_name>
+      <last_name>Georgi</last_name>
+      <gender>male</gender>
+      <birthyear>1967</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Ottweiler</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/georgi.jpg</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-21 16:12</edited>
+      <uuid>df443028-90cc-48df-b144-8ec810c05c1f</uuid>
+      <username>raphael-schafer</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/raphael-schafer</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Raphael</first_name>
+      <last_name>Schäfer</last_name>
+      <gender>male</gender>
+      <birthyear>1981</birthyear>
+      <education>Dipl. Verwaltungswirt</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarlouis</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/profil_schafer.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>6</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 15:20</edited>
+      <uuid>885e0b3e-6ba3-4751-83f6-5412e5458d52</uuid>
+      <username>roland-theis</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/roland-theis</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Roland</first_name>
+      <last_name>Rheis</last_name>
+      <gender>male</gender>
+      <birthyear>1980</birthyear>
+      <education>Jurist</education>
+      <profession>Staatssekretär im Saarländischen Justizministerium</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Illingen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/default_images/profil_dummy_0.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <retired>2017-04-25</retired>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:44</edited>
+      <uuid>971a70a6-34c9-4490-afd7-205aae7a62f9</uuid>
+      <username>ruth-meyer</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/ruth-meyer</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Ruth</first_name>
+      <last_name>Meyer</last_name>
+      <gender>female</gender>
+      <birthyear>1965</birthyear>
+      <education>Magisterstudium der Sozialpsychologie, Erziehungs- und Politikwissenschaft, Studium der Sprechwissenschaften und Sprecherziehung</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>St. Wendel</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/meyer-f2-03.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>7</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:02</edited>
+      <uuid>c8fd5f7d-f96d-4c33-a207-50ec7731dc54</uuid>
+      <username>sebastian-thul</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/sebastian-thul</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Sebastian</first_name>
+      <last_name>Thul</last_name>
+      <gender>male</gender>
+      <birthyear>1980</birthyear>
+      <education>Dipl. Sozialarbeiter</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Neunkirchen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/sebastian-thul-1.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>5</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-01-26 10:48</edited>
+      <uuid>48d6e2ce-3fea-4635-a5af-8741368d960e</uuid>
+      <username>stefan-pauluhn</username>
+      <questions>1</questions>
+      <answers>1</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/stefan-pauluhn</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Stefan</first_name>
+      <last_name>Pauluhn</last_name>
+      <gender>male</gender>
+      <birthyear>1962</birthyear>
+      <education>technischer Angestellter</education>
+      <profession>MdL, Fraktionsvorsitzender</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Gersheim</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/stefan_pauluhn_spd-landtagsfraktion-peter_kerkrath-1.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Peter Kerkrath</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>afa37beb-3f75-45e8-98a8-e0cea834d92f</uuid>
+        <name>Ausschuss für Fragen des Verfassungsschutzes (VS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-12-19 13:42</edited>
+      <uuid>0cdfa048-6d8c-44eb-be6b-7e730e5ecd82</uuid>
+      <username>stefan-thielen</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/stefan-thielen</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Stefan</first_name>
+      <last_name>Thielen</last_name>
+      <gender>male</gender>
+      <birthyear>1977</birthyear>
+      <education>Bankkaufmann, Studium Internationale Beziehungen und Internationales Management</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Mettlach</city>
+        <postal_code>66693</postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/thielen-s2-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-03-06 09:16</edited>
+      <uuid>d7d3239a-dfec-4dea-909d-197081856688</uuid>
+      <username>stephan-toscani</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/stephan-toscani</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Stephan</first_name>
+      <last_name>Toscani</last_name>
+      <gender>male</gender>
+      <birthyear>1967</birthyear>
+      <education>Jurist</education>
+      <profession>Landtagspräsident, MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Mandelbachtal</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/profil_toscani.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2019-01-11 13:22</edited>
+      <uuid>786f14a8-341f-436a-b919-0526805752d1</uuid>
+      <username>tobias-hans</username>
+      <questions>3</questions>
+      <answers>0</answers>
+      <standard_replies>1</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/tobias-hans</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Tobias</first_name>
+      <last_name>Hans</last_name>
+      <gender>male</gender>
+      <birthyear>1978</birthyear>
+      <education>Informationswissenswissenschaftler</education>
+      <profession>MdL, Ministerpräsident</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Neunkirchen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/tobiashans.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:09</edited>
+      <uuid>cf81bb5f-1e5a-46fc-bce4-f8232812ec1b</uuid>
+      <username>ulrich-commercon</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/ulrich-commercon</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Ulrich</first_name>
+      <last_name>Commerçon</last_name>
+      <gender>male</gender>
+      <birthyear>1968</birthyear>
+      <education>Politikwissenschaftler, M.A.</education>
+      <profession>MdL, Minister für Bildung und Kultur</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/ulrich-commercon.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 16:41</edited>
+      <uuid>1e595603-d0ce-47fc-884e-c9acd43b4cd3</uuid>
+      <username>volker-oberhausen</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/volker-oberhausen</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Volker</first_name>
+      <last_name>Oberhausen</last_name>
+      <gender>male</gender>
+      <birthyear>1959</birthyear>
+      <education>Dipl. Kaufmann</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Homburg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/oberhausen.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2017-05-24</joined>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>8</position>
+      <won></won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:58</edited>
+      <uuid>4cf87aef-7e01-4c12-af13-944ecd8ab621</uuid>
+      <username>josef-dorr</username>
+      <questions>2</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/josef-dorr</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Josef</first_name>
+      <last_name>Dörr</last_name>
+      <gender>male</gender>
+      <birthyear>1938</birthyear>
+      <education>Sonderschulrektor i.R.</education>
+      <profession>MdL, Alterspräsident, Fraktionsvorsitzender</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Quierschied</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/josef_doerr_pressefoto.jpg</url>
+        <copyright>Josef Dörr</copyright>
+      </picture>
+    </personal>
+    <party>AfD</party>
+    <fraction>AfD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-17 13:53</edited>
+      <uuid>6756c57e-ae72-4245-ada1-ad8b96276b8f</uuid>
+      <username>lutz-hecker</username>
+      <questions>2</questions>
+      <answers>1</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/lutz-hecker</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Lutz</first_name>
+      <last_name>Hecker</last_name>
+      <gender>male</gender>
+      <birthyear>1969</birthyear>
+      <education>Bauingenieur</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Gersheim</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/lutz_hecker_pressefoto.jpg</url>
+        <copyright>Lutz Hecker</copyright>
+      </picture>
+    </personal>
+    <party>AfD</party>
+    <fraction>AfD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:43</edited>
+      <uuid>3dbe455a-03bb-4ffb-b80f-9e019078db25</uuid>
+      <username>petra-fretter</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/petra-fretter</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Petra</first_name>
+      <last_name>Fretter</last_name>
+      <gender>female</gender>
+      <birthyear>1959</birthyear>
+      <education>Arzthelferin und MTA</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Großrosseln</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/fretter-f-03.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>5</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:48</edited>
+      <uuid>9629be0d-ea9e-4a48-98fe-cf9a205e870e</uuid>
+      <username>sascha-zehner</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/sascha-zehner</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Sascha</first_name>
+      <last_name>Zehner</last_name>
+      <gender>male</gender>
+      <birthyear>1973</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city></city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/zehner-f-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:39</edited>
+      <uuid>f98f0839-cdaa-4e0c-87a9-a310278b2d6c</uuid>
+      <username>klaus-bouillon</username>
+      <questions>2</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/klaus-bouillon</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Klaus</first_name>
+      <last_name>Bouillon</last_name>
+      <gender>male</gender>
+      <birthyear>1947</birthyear>
+      <education>Jurist</education>
+      <profession>MdL, Minister für Inneres, Bauen und Sport</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>St. Wendel</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/bouillon-f-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>1</position>
+      <won>1</won>
+    </list>
+    <committees/>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:46</edited>
+      <uuid>3022aeeb-fa57-4bf6-b536-bd5851e2856e</uuid>
+      <username>alwin-theobald</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/alwin-theobald</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Alwin</first_name>
+      <last_name>Theobald</last_name>
+      <gender>male</gender>
+      <birthyear>1968</birthyear>
+      <education>Straßenwärter, Justizvollzugsbeamter</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Bubach - Calmesweiler</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/theobald-s-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>6</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-14 16:46</edited>
+      <uuid>51fcf2d2-3058-469c-9f3b-a803ec359472</uuid>
+      <username>frank-wagner</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/frank-wagner</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Frank</first_name>
+      <last_name>Wagner</last_name>
+      <gender>male</gender>
+      <birthyear>1977</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Merzig</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/wagner-f-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2017-05-24</joined>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarlouis</name>
+      <uuid>2dcb7e52-326a-46b2-8af1-69b8880ba858</uuid>
+      <number>3</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarlouis</name>
+      <uuid>3104f48c-f954-41c2-86c3-4b744bb72640</uuid>
+      <position>7</position>
+      <won></won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:34</edited>
+      <uuid>a930eb9e-b13b-4ab2-944f-6ab18814b439</uuid>
+      <username>sarah-gillen</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/sarah-gillen</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Sarah</first_name>
+      <last_name>Gillen</last_name>
+      <gender>female</gender>
+      <birthyear>1983</birthyear>
+      <education>Dipl. Ingenieurin</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>St. Wendel</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/gillen-f-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2017-05-24</joined>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>7</position>
+      <won></won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-09-24 07:50</edited>
+      <uuid>e2a7028f-272b-4fa4-af78-c48fb4a20b42</uuid>
+      <username>marc-speicher</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/marc-speicher</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Marc</first_name>
+      <last_name>Speicher</last_name>
+      <gender>male</gender>
+      <birthyear>1984</birthyear>
+      <education>Bankkaufmann, Wirtschaftswissenschaftler </education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarlouis</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/speicher-f-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>6</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 16:05</edited>
+      <uuid>ff55f992-c789-4b82-bafb-65037d9d65cf</uuid>
+      <username>alexander-zeyer</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/alexander-zeyer</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Alexander</first_name>
+      <last_name>Zeyer</last_name>
+      <gender>male</gender>
+      <birthyear>1993</birthyear>
+      <education>Kaufmann für Marketingkommunikation</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>St. Wendel-Bliesen</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/zeyer-f2-01.jpg</url>
+        <copyright>CDU Fraktion Saar</copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>4</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 15:19</edited>
+      <uuid>6ab47b19-7057-40e6-b773-263768867379</uuid>
+      <username>dennis-lander</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/dennis-lander</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Dennis</first_name>
+      <last_name>Lander</last_name>
+      <gender>male</gender>
+      <birthyear>1993</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Saarbrücken</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/lander.jpg</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>2ab6d331-7116-44dd-8a32-39b8acd45f2e</uuid>
+        <name>Ausschuss für Europa und Fragen des Interregionalen Parlamentarierrates (EF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>4ede09e1-54d4-484d-90fd-7f9acf1cd117</uuid>
+        <name>Ausschuss für Inneres und Sport (IS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>18ef1464-4417-4195-bf9f-b3959968f35f</uuid>
+        <name>Ausschuss für Soziales, Gesundheit, Frauen und Familie (SGFF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 13:52</edited>
+      <uuid>9fa5dadc-7f7b-407d-a711-5d3c0783f435</uuid>
+      <username>jochen-flackus</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/jochen-flackus</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Jochen</first_name>
+      <last_name>Flackus</last_name>
+      <gender>male</gender>
+      <birthyear>1955</birthyear>
+      <education>Studium der Politik und Wirtschaft</education>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Riegelsberg</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/flackus.jpg</url>
+        <copyright>Linksfraktion Saarland</copyright>
+      </picture>
+    </personal>
+    <party>DIE LINKE</party>
+    <fraction>DIE LINKE</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency/>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>2</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>afa37beb-3f75-45e8-98a8-e0cea834d92f</uuid>
+        <name>Ausschuss für Fragen des Verfassungsschutzes (VS)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>2136e20f-9a98-4579-a7f1-aa5ef260a7b3</uuid>
+        <name>Unterausschuss für Bauen (UA-Bau)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Alternate member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:03</edited>
+      <uuid>16d49786-ff65-4638-9e28-91ed4d7deabd</uuid>
+      <username>reiner-zimmer</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/reiner-zimmer</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Reiner</first_name>
+      <last_name>Zimmer</last_name>
+      <gender>male</gender>
+      <birthyear>1964</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Heusweiler - Wahlschied</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/reiner-zimmer.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>3</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>53c5e87c-59a0-4ff4-80f6-584a78d11af4</uuid>
+        <name>Ausschuss für Justiz, Verfassungs- und Rechtsfragen sowie Wahlprüfung (VR)</name>
+        <role>Chairman</role>
+      </committee>
+      <committee>
+        <uuid>25d04420-d75b-47d9-9980-719fdd3b3fbb</uuid>
+        <name>Ausschuss für Bildung, Kultur und Medien (BKM)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>25cc3785-f2e9-4761-ad69-c0b174bc137a</uuid>
+        <name>Ausschuss für Wirtschaft, Arbeit, Energie und Verkehr (WAEV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2017-11-15 11:08</edited>
+      <uuid>bb2a33c9-b6d2-4003-950a-70e924a66bcd</uuid>
+      <username>christina-baltes</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/christina-baltes</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Christina</first_name>
+      <last_name>Baltes</last_name>
+      <gender>female</gender>
+      <birthyear>1960</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city>Schiffweiler</city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/christina-baltes_0.jpg</url>
+        <copyright>SPD-Landtagsfraktion/Tom Gundelwein</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Neunkirchen</name>
+      <uuid>a7cffc3e-b272-4b62-b571-15b63a2752bc</uuid>
+      <number>2</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Neunkirchen</name>
+      <uuid>97b3d8cf-6687-4c10-9bda-9766086eabf2</uuid>
+      <position>6</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2019-01-16 09:39</edited>
+      <uuid>91d50723-e6b3-48b0-8c52-dea7a11600e4</uuid>
+      <username>dieter-heckmann</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/dieter-heckmann</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Dieter</first_name>
+      <last_name>Heckmann</last_name>
+      <gender>male</gender>
+      <birthyear>1959</birthyear>
+      <education>Dipl.-Ing. Elektrotechnik</education>
+      <profession>MDL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city></city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/bild_heckmann_dieter_web1.jpg</url>
+        <copyright>Peter Diersch</copyright>
+      </picture>
+    </personal>
+    <party>SPD</party>
+    <fraction>SPD</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Liste Wahlkreis Saarbrücken</name>
+      <uuid>2681b5d0-e5db-4c5b-b5cf-daca89d34fd9</uuid>
+      <position>5</position>
+      <won></won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>0e72d668-cb66-4785-a0eb-ca1ba123d275</uuid>
+        <name>Ausschuss für Finanzen und Haushaltsfragen (HF)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>9b0dc737-db57-45fb-86bd-7f6f25086a9f</uuid>
+        <name>Ausschuss für Grubensicherheit und Nachbergbau (GSN)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>be65534a-d65f-417a-9e78-5b795e1457e7</uuid>
+        <name>Unterausschuss zur Prüfung der Haushaltsrechnung (UA-HHR)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+  <profile>
+    <meta>
+      <status>1</status>
+      <edited>2018-04-20 11:18</edited>
+      <uuid>be5eb575-3e52-44b4-8a07-d98d6d622415</uuid>
+      <username>timo-mildau</username>
+      <questions>0</questions>
+      <answers>0</answers>
+      <standard_replies>0</standard_replies>
+      <url>https://www.abgeordnetenwatch.de/profile/timo-mildau</url>
+    </meta>
+    <personal>
+      <degree/>
+      <first_name>Timo</first_name>
+      <last_name>Mildau</last_name>
+      <gender>male</gender>
+      <birthyear>1992</birthyear>
+      <education/>
+      <profession>MdL</profession>
+      <location>
+        <country>DE</country>
+        <state></state>
+        <city></city>
+        <postal_code></postal_code>
+      </location>
+      <picture>
+        <url>https://www.abgeordnetenwatch.de/sites/abgeordnetenwatch.de/files/users/29496235_1741778549175736_1580143242162368689_n.jpg</url>
+        <copyright></copyright>
+      </picture>
+    </personal>
+    <party>CDU</party>
+    <fraction>CDU</fraction>
+    <parliament>
+      <name>Saarland</name>
+      <uuid>ae6b100b-b0b1-42b0-bd9b-16bbf2ec8696</uuid>
+      <joined>2018-03-21</joined>
+    </parliament>
+    <roles/>
+    <constituency>
+      <name>Saarbrücken</name>
+      <uuid>ec62af1c-2401-4444-9f5f-b562197117ec</uuid>
+      <number>1</number>
+      <result/>
+      <won></won>
+    </constituency>
+    <list>
+      <name>Landesliste</name>
+      <uuid>92ecdc20-56b9-4bda-9f4a-1387c35e7667</uuid>
+      <position>9</position>
+      <won>1</won>
+    </list>
+    <committees>
+      <committee>
+        <uuid>22590c30-24d6-49f0-a44e-a530ef1534ca</uuid>
+        <name>Ausschuss für Eingaben (E)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>51bc7b41-a508-4f81-9ce4-110d01abb977</uuid>
+        <name>Ausschuss für Umwelt und Verbraucherschutz (UV)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>f40ed455-cc75-40b2-b42c-3f3faad63cd8</uuid>
+        <name>Ausschuss für Wissenschaft, Forschung und Technologie (WFT)</name>
+        <role>Member</role>
+      </committee>
+      <committee>
+        <uuid>d28789ae-d8e2-411c-99f9-44c495d259ab</uuid>
+        <name>Unterausschuss für Datenschutz und Informationsfreiheit (DI)</name>
+        <role>Member</role>
+      </committee>
+    </committees>
+  </profile>
+</profiles>
