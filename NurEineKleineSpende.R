@@ -11,9 +11,12 @@
 
 library(rjson)
 library(stringr)
-setwd("C:\\Users\\tim\\Documents\\Computer\\Python\\wikimedia\\intra-party-donations")
-
 require(XML)
+
+#TODO Pfad automatisch auslesen?
+#Pfad angeben
+setwd("C:\\...\\intra-party-donations")
+
 
 read.Lobbypedia <- function(lobbyCSV = "parteispenden.csv"){
   # Parteispenden aller natuerlichen Personen von:
