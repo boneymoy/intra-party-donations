@@ -15,7 +15,8 @@ require(XML)
 
 #TODO Pfad automatisch auslesen?
 #Pfad angeben
-setwd("C:\\...\\intra-party-donations")
+getwd
+setwd("...\\intra-party-donations")
 
 
 read.Lobbypedia <- function(lobbyCSV = "parteispenden.csv"){
@@ -115,7 +116,6 @@ read.multipleXML <- function(xml_list){
   for (i in 1:length(xml_list)){
     print(paste0("Read in: ",xml_list[i], "..."))
     print(xml_list[i])
-    print(names)
     names <- rbind(names,read.abgeordnetenwatch(xml_list[i])) 
     print("Done!")
   }
@@ -179,7 +179,7 @@ search.selfDonations <- function(donationList, namelist){
   #     bei Treffer Betrag in sumOfDonations summieren
   
   for (j in 1:length(donationList$Geldgeber)){
-    print(j)
+    print(paste0(j, " von ", length(donationList$Geldgeber)))
     for (i in 1:nrow(namelist)){
       if (spender[i]){
         if (namelist[i,1] == donationList$Geldgeber[j]){
