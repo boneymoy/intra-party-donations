@@ -15,8 +15,8 @@ require(XML)
 
 #TODO Pfad automatisch auslesen?
 #Pfad angeben
-getwd
-setwd("...\\intra-party-donations")
+getwd()
+setwd("Computer\\Python\\Wikimedia\\intra-party-donations")
 
 
 read.Lobbypedia <- function(lobbyCSV = "parteispenden.csv"){
@@ -207,3 +207,5 @@ xml_list <- c("bundestag.xml", "berlin.xml","BW.xml","bayern.xml","thueringen.xm
 namelist_abgeordnetenwatch <- read.multipleXML(xml_list)
 
 sumOfSelfDonations <- search.selfDonations(donations, namelist_abgeordnetenwatch)
+
+write.csv(sumOfSelfDonations, file = "List_of_Donations.csv")
