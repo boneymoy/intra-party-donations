@@ -24,7 +24,6 @@ read.Lobbypedia <- function(lobbyCSV = "parteispenden.csv"){
   # https://lobbypedia.de/wiki/Spezial:Abfrage_ausf%C3%BChren/Parteispenden
   
   # TODO: abfrage automatisch ausführen und csv speichern
-  lobbyCSV <- lobbyCSV
   data <- read.csv(lobbyCSV, encoding = "UTF-8")
   
   # Datenvorverarbeitung der Parteispenden 
